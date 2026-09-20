@@ -1,27 +1,369 @@
-# Tecnologia da Informação | Logística | Gestão
-Unindo a visão analítica e técnica do Desenvolvimento de Sistemas à eficiência operacional da Logística e da Gestão de TI.
+````markdown
+# 👨🏻‍💻 Vinicius Santos
 
-# Objetivo Profissional
-Meu objetivo é conectar a experiência prática adquirida em Logística aos meus conhecimentos em Tecnologia da Informação e Gestão, desenvolvendo soluções tecnológicas capazes de otimizar processos, aumentar a eficiência operacional e contribuir estrategicamente para a tomada de decisões dentro das organizações.
+**`Estudante de Gestão da Tecnologia da Informação | Desenvolvedor em formação`**
 
-# Minha Trajetória
-2022 ────────► Início no curso Técnico em Desenvolvimento de Sistemas 2023 ────────► Conclusão do curso e entrada na área de Logística (Ajudante Geral) 2023 - Atual ─► Promoção a Líder de Expedição (Gestão de equipes e processos) 2026 ────────► Início da Graduação em Gestão da Tecnologia da Informação 2026 - Atual ─► Aprimoramento técnico contínuo em Python, C e Bancos de Dados 
+Olá! Me chamo **Vinicius Santos**. Minha trajetória profissional começou na área de Logística, onde evoluí de **Ajudante Geral para Líder de Expedição**, desenvolvendo experiência em liderança, organização de processos, tomada de decisões e resolução de problemas.
 
-# Experiência Profissional
-Líder de Expedição
-Evolução: Ajudante Geral ➔ Líder de Expedição
-Gestão & Liderança: Liderança direta de equipes operacionais na área de expedição em distribuidora de eletrônicos.
-Processos & Rotinas: Controle, organização e otimização de rotinas de expedição e movimentação de mercadorias.
-Resolução de Problemas: Tomada de decisão ágil e resolução de gargalos operacionais em ambiente de ritmo acelerado.
+Minha paixão por tecnologia começou em 2022, quando iniciei o curso Técnico em Desenvolvimento de Sistemas. Após concluir minha formação técnica em 2023, continuei buscando novos conhecimentos na área de Tecnologia da Informação.
 
-# Formação Acadêmica
-Superior em Gestão da Tecnologia da Informação
-Cursando (2º Semestre) — Início em 2026
-Técnico em Desenvolvimento de Sistemas
-Concluído — 2022 a 2023
+Atualmente, estou cursando **Gestão da Tecnologia da Informação** e continuo aprimorando meus conhecimentos em programação, desenvolvimento web, bancos de dados e gestão de processos de TI.
 
-# Tecnologias & Competências
-## Conhecimentos Adquiridos
-Java • HTML5 • CSS3 • JavaScript • Kotlin • Android Studio • SQL Server • Lógica de Programação • Desenvolvimento de Sistemas
-## Em Aprendizado & Aprimoramento
-Python • Linguagem C • Modelagem de Banco de Dados • Gestão de Processos de TI
+Meu objetivo é unir minha experiência prática em **Logística e Gestão** aos conhecimentos em **Tecnologia**, desenvolvendo soluções capazes de otimizar processos e resolver problemas reais.
+
+---
+
+## 🚀 Sobre mim
+
+- 🎓 Estudante de **Gestão da Tecnologia da Informação**
+- 💻 Técnico em **Desenvolvimento de Sistemas**
+- 📦 Experiência profissional em **Logística**
+- 👨🏻‍💼 Experiência como **Líder de Expedição**
+- 🧠 Interesse em programação e desenvolvimento de sistemas
+- 🗄️ Interesse em bancos de dados
+- ⚙️ Interesse em automação e otimização de processos
+- 🌐 Estudando desenvolvimento web
+- 🟢 Aprendendo **Node.js**
+- 🐍 Aprimorando conhecimentos em **Python**
+- 🔵 Estudando **Linguagem C**
+
+---
+
+## 🎯 Objetivo Profissional
+
+Meu objetivo é construir uma carreira na área de **Tecnologia da Informação**, utilizando minha experiência profissional e meus conhecimentos técnicos para desenvolver soluções que possam melhorar processos e aumentar a eficiência das organizações.
+
+Tenho especial interesse em unir:
+
+```text
+💻 Tecnologia
+      +
+📊 Dados
+      +
+⚙️ Processos
+      +
+📦 Logística
+      +
+👥 Gestão
+      =
+🚀 Soluções
+````
+
+---
+
+## 🛠️ Linguagens e Tecnologias
+
+### 💻 Desenvolvimento
+
+<p align="left">
+
+<img 
+ align="left" 
+ alt="HTML5"
+ title="HTML5" 
+ width="35px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="CSS3"
+ title="CSS3" 
+ width="35px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="JavaScript"
+ title="JavaScript" 
+ width="35px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="Java"
+ title="Java" 
+ width="35px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="Kotlin"
+ title="Kotlin" 
+ width="35px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="Python"
+ title="Python" 
+ width="35px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="C"
+ title="C" 
+ width="35px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
+/>
+
+<img 
+ align="left" 
+ alt="Node.js"
+ title="Node.js" 
+ width="35px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
+/>
+
+</p>
+
+<br/>
+<br/>
+
+### 🗄️ Banco de Dados
+
+<p align="left">
+
+<img 
+ align="left" 
+ alt="SQL Server"
+ title="SQL Server" 
+ width="35px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
+/>
+
+</p>
+
+<br/>
+<br/>
+
+### 📱 Desenvolvimento
+
+<p align="left">
+
+<img 
+ align="left" 
+ alt="Android Studio"
+ title="Android Studio" 
+ width="35px" 
+ style="padding-right: 10px;" 
+ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
+/>
+
+</p>
+
+<br/>
+<br/>
+
+---
+
+## 📚 Atualmente Aprendendo
+
+### 🐍 Python
+
+`████████████████░░░░ 80%`
+
+Aprimorando lógica de programação, automação e desenvolvimento de soluções.
+
+### 🔵 Linguagem C
+
+`████████████░░░░░░░░ 60%`
+
+Estudando fundamentos da programação, estruturas e lógica.
+
+### 🗄️ Banco de Dados
+
+`██████████████░░░░░░ 70%`
+
+Aprofundando conhecimentos em SQL, modelagem e organização de dados.
+
+### 🟢 Node.js
+
+`██████████░░░░░░░░░░ 50%`
+
+Iniciando estudos em desenvolvimento backend e construção de aplicações utilizando JavaScript.
+
+### ⚙️ Gestão de TI
+
+`██████████████░░░░░░ 70%`
+
+Desenvolvendo conhecimentos relacionados à gestão, processos e tecnologia.
+
+---
+
+## 📦 Experiência Profissional
+
+### 👨🏻‍💼 Líder de Expedição
+
+**Distribuidora de Eletrônicos**
+
+**Evolução profissional:**
+
+`Ajudante Geral` ➜ `Líder de Expedição`
+
+Atuação envolvendo:
+
+* 👥 Liderança de equipes operacionais
+* 📦 Controle e organização da expedição
+* ⚙️ Organização de processos
+* 🚚 Movimentação de mercadorias
+* 📊 Acompanhamento de operações
+* 🧩 Identificação de gargalos
+* 💡 Resolução de problemas
+* 🎯 Tomada de decisões
+
+Essa experiência contribuiu para desenvolver habilidades de **liderança, organização, comunicação, responsabilidade e visão de processos**.
+
+---
+
+## 🎓 Formação
+
+### 🎓 Gestão da Tecnologia da Informação
+
+**Cursando — 2º Semestre**
+
+📅 Início: **2026**
+
+---
+
+### 💻 Técnico em Desenvolvimento de Sistemas
+
+**Concluído**
+
+📅 **2022 — 2023**
+
+---
+
+## 🗺️ Minha Jornada
+
+```text
+2022
+ │
+ └── 💻 Técnico em Desenvolvimento de Sistemas
+          │
+2023     │
+ │       ├── 🎓 Conclusão do curso técnico
+ │       │
+ │       └── 📦 Entrada na área de Logística
+ │
+ └── 📈 Evolução profissional
+          │
+          └── 👨🏻‍💼 Líder de Expedição
+                    │
+2026                │
+ │                  └── 🎓 Gestão da Tecnologia da Informação
+ │
+ └── 🚀 Aprimoramento contínuo
+          │
+          ├── 🐍 Python
+          ├── 🔵 C
+          ├── 🗄️ Banco de Dados
+          └── 🟢 Node.js
+```
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+
+<img 
+ align="left" 
+ alt="GitHub Stats" 
+ height="180" 
+ style="padding-right: 10px;" 
+ src="https://github-readme-stats.vercel.app/api?username=viniciusSantos1-gi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+/>
+
+<img 
+ align="left" 
+ alt="Principais Linguagens" 
+ height="180" 
+ src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusSantos1-gi&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+/>
+
+</p>
+
+<br/>
+<br/>
+<br/>
+
+---
+
+## 🎯 Áreas de Interesse
+
+<p align="left">
+
+<img src="https://img.shields.io/badge/Desenvolvimento_de_Sistemas-007ACC?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Desenvolvimento_Web-E34F26?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Banco_de_Dados-4479A1?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Automação-00A98F?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Gestão_de_TI-6C63FF?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Logística-FF9800?style=for-the-badge" />
+
+</p>
+
+---
+
+## 🚀 Próximos Passos
+
+* [ ] 🐍 Aprofundar Python
+* [ ] 🟢 Aprender Node.js
+* [ ] ⚡ Evoluir em JavaScript
+* [ ] 🗄️ Aprofundar SQL e modelagem de dados
+* [ ] 🔌 Desenvolver APIs
+* [ ] 💻 Criar projetos completos
+* [ ] 📦 Desenvolver soluções voltadas para Logística
+* [ ] 📊 Trabalhar com dados e automação
+* [ ] 🚀 Construir um portfólio sólido em Tecnologia
+
+---
+
+## 💡 Minha Visão
+
+> **"Tecnologia não é apenas código. É uma ferramenta para resolver problemas."**
+
+A experiência em Logística me ensinou sobre **processos, organização, liderança e resolução de problemas**.
+
+A Tecnologia da Informação me permite transformar essa experiência em **soluções, sistemas e automações**.
+
+Meu objetivo é continuar aprendendo, desenvolver projetos e construir uma carreira conectando **Tecnologia + Gestão + Logística**.
+
+---
+
+<div align="center">
+
+### 🚀 Em constante aprendizado.
+
+**Tecnologia • Gestão • Logística • Desenvolvimento**
+
+⭐ Obrigado por visitar meu perfil!
+
+</div>
+```
+
+Essa estrutura fica bem próxima do README da **Larissa Kich** que você mostrou, mas adaptada à sua trajetória. Um detalhe importante: deixei **Node.js como “atualmente aprendendo”**, em vez de apresentá-lo como uma tecnologia que você já domina. Isso deixa seu perfil mais fiel e profissional.
