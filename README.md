@@ -171,41 +171,6 @@ Tenho especial interesse em unir:
 <br/>
 
 ---
-
-## 📚 Atualmente Aprendendo
-
-### 🐍 Python
-
-`████████████████░░░░ 80%`
-
-Aprimorando lógica de programação, automação e desenvolvimento de soluções.
-
-### 🔵 Linguagem C
-
-`████████████░░░░░░░░ 60%`
-
-Estudando fundamentos da programação, estruturas e lógica.
-
-### 🗄️ Banco de Dados
-
-`██████████████░░░░░░ 70%`
-
-Aprofundando conhecimentos em SQL, modelagem e organização de dados.
-
-### 🟢 Node.js
-
-`██████████░░░░░░░░░░ 50%`
-
-Iniciando estudos em desenvolvimento backend e construção de aplicações utilizando JavaScript.
-
-### ⚙️ Gestão de TI
-
-`██████████████░░░░░░ 70%`
-
-Desenvolvendo conhecimentos relacionados à gestão, processos e tecnologia.
-
----
-
 ## 📦 Experiência Profissional
 
 ### 👨🏻‍💼 Líder de Expedição
@@ -243,7 +208,7 @@ Essa experiência contribuiu para desenvolver habilidades de **liderança, organ
 
 ### 💻 Técnico em Desenvolvimento de Sistemas
 
-**Concluído**
+**Concluido**
 
 📅 **2022 — 2023**
 
