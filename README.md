@@ -114,13 +114,7 @@ Tenho especial interesse em unir:
 
 <br/>
 <br/>
-
-### 📱 Desenvolvimento
-
-<p align="left">
-
 </p>
-
 <br/>
 <br/>
 
