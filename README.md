@@ -227,8 +227,6 @@ Essa experiência contribuiu para desenvolver habilidades de **liderança, organ
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-
 <img src="https://img.shields.io/badge/Banco_de_Dados-4479A1?style=for-the-badge" />
 
 <img src="https://img.shields.io/badge/Automação-00A98F?style=for-the-badge" />
@@ -274,6 +272,3 @@ Meu objetivo é continuar aprendendo, desenvolver projetos e construir uma carre
 ⭐ Obrigado por visitar meu perfil!
 
 </div>
-```
-
-Essa estrutura fica bem próxima do README da **Larissa Kich** que você mostrou, mas adaptada à sua trajetória. Um detalhe importante: deixei **Node.js como “atualmente aprendendo”**, em vez de apresentá-lo como uma tecnologia que você já domina. Isso deixa seu perfil mais fiel e profissional.
