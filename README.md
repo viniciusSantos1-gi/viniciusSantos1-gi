@@ -23,7 +23,6 @@ Meu objetivo é unir minha experiência prática em **Logística e Gestão** aos
 - 🗄️ Interesse em bancos de dados
 - ⚙️ Interesse em automação e otimização de processos
 - 🌐 Estudando desenvolvimento web
-- 🟢 Aprendendo **Node.js**
 - 🐍 Aprimorando conhecimentos em **Python**
 - 🔵 Estudando **Linguagem C**
 
@@ -77,33 +76,6 @@ Tenho especial interesse em unir:
 
 <img 
  align="left" 
- alt="JavaScript"
- title="JavaScript" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="Java"
- title="Java" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="Kotlin"
- title="Kotlin" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" 
-/>
-
-<img 
- align="left" 
  alt="Python"
  title="Python" 
  width="35px" 
@@ -118,15 +90,6 @@ Tenho especial interesse em unir:
  width="35px" 
  style="padding-right: 10px;" 
  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
-/>
-
-<img 
- align="left" 
- alt="Node.js"
- title="Node.js" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" 
 />
 
 </p>
@@ -155,15 +118,6 @@ Tenho especial interesse em unir:
 ### 📱 Desenvolvimento
 
 <p align="left">
-
-<img 
- align="left" 
- alt="Android Studio"
- title="Android Studio" 
- width="35px" 
- style="padding-right: 10px;" 
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" 
-/>
 
 </p>
 
@@ -238,7 +192,6 @@ Essa experiência contribuiu para desenvolver habilidades de **liderança, organ
           ├── 🐍 Python
           ├── 🔵 C
           ├── 🗄️ Banco de Dados
-          └── 🟢 Node.js
 ```
 
 ---
@@ -297,8 +250,6 @@ Essa experiência contribuiu para desenvolver habilidades de **liderança, organ
 ## 🚀 Próximos Passos
 
 * [ ] 🐍 Aprofundar Python
-* [ ] 🟢 Aprender Node.js
-* [ ] ⚡ Evoluir em JavaScript
 * [ ] 🗄️ Aprofundar SQL e modelagem de dados
 * [ ] 🔌 Desenvolver APIs
 * [ ] 💻 Criar projetos completos
